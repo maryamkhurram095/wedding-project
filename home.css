@@ -1,0 +1,75 @@
+body{
+    margin: 0 auto;
+    background-color: black;
+    color:  #d0952d;
+    background-image: url(http://www.aztecchocolateshop.com/assets/images/owl-new-bg.png);
+     background-size: cover;
+}
+ul{
+    list-style: none;
+}
+#logo{
+    width: 100%;
+}
+#logo div{
+ display: inline-block;
+}
+ul li{
+    display: inline-block;
+    position: relative;
+    line-height: 21px;
+    text-align:left;
+    float: right;
+    padding-right: 70px;
+}
+h1{
+    text-align: center;
+    margin: 30px 10px ;
+    padding: 20px 20px;
+}
+
+.flower{
+    display: inline-block;
+    margin: 20px 10px 10px 200px;
+}
+#para{
+    text-align: center;
+    font-size: 25px;
+}
+#mainl{
+    float: right;
+    font-size: 20px;
+}
+footer{
+    border: black;
+    margin-top: 100px ;
+    height: 300px;
+}
+#contact{
+   position: relative;
+   left: 700px;
+}
+footer div div{
+    display: inline-block;
+}
+.link{
+    position: relative;
+    left: 500px;
+}
+.link a{
+     color:  #d0952d;
+     text-decoration: none;
+     font-size: 18px;
+}
+#limg{
+    position: relative;
+    bottom: 40px;
+    left: 100px;
+}
+.copy{
+    background-color: #d0952d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
